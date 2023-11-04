@@ -70,5 +70,6 @@ Method Two:
   - [ ] Go slow. Do one thing at a time. You got this :muscle:
 
 ## What is one thing that I learned from doing this project? :books:
+This project is the first homework for me in this course. So I have take some time to get use to the css items i need and doing research. It is happy that when the project is finally finished.
 
 (Fill whatever you would like here!)
