@@ -2,6 +2,7 @@
 This css sheet is linked to practice.html
 You can style tags, classes (.) or ids (#) from this file.
 */
+
 body {
     display: inline;
 }
@@ -43,6 +44,22 @@ body {
     margin: 4%;
 }
 
-.icon > img {
-    border: 1px solid black;
+@media only screen and (max-width: 600px) {
+
+    .textonimg {
+        text-align: center;
+        color: white;
+        position: absolute;
+        top: 50%; 
+        left: 50%; 
+        transform: translate(-50%, -100%); 
+        padding: 10px 20px; 
+        font-size: 24px; 
+    }
+    .textonimg > button {
+        font-size: 12px;
+    }
+    .item > img {
+        width: 50px;
+    }
 }
